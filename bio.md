@@ -1,0 +1,3 @@
+1. I'm really interested in working on, and completing, a complete "bussiness solution" application.
+2. The syllabus seems pretty clear. Although it seems like there's a whole lot packed in there. Is expertise expected of us in each and every one of the topics listed, or is this more of a survey course?
+3. The workload, along with specific topics like JSX and Javascript scare me. I learned them once before, but I had constant issues getting my webapp to display correctly and I'm worried that I'd fall behind while working with these technologies against a deadline. I suppose that's a skill to learn in of itself.
